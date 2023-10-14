@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alarm Clock App</string>
+    <string name="create_by_n_codeone">Create By,\n CodeOne</string>
+    <string name="every_moment_counts_n_and_this_one_s_your_wake_up_call">Every moment counts,\n and this one\'s your wake-up call</string>
+    <string name="my_alarm">My Alarm</string>
+    <string name="snooze">Snooze</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="todo">TODO</string>
+</resources>
